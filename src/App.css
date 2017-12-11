@@ -1,0 +1,211 @@
+
+body{
+	background-color: #e6ecf0;
+  font-family: sans-serif,helvatica;
+}
+
+.hello{
+  background-color: white;
+  display: block;
+  margin: 0px 0px 10px 0px;
+  height: 56px;
+   box-shadow: 0.5px 0.5px 0.5px #888888;
+  font-size: 14px;
+}
+
+.panel{
+  margin-left: -20px;
+  width: auto;
+
+}
+
+
+a{
+	color:gray;
+    text-decoration:none !important;
+
+}
+
+
+
+.top-t-i{
+
+padding:20px 50px 20px 200px ;
+color:#1da1f2;
+font-size:20px;
+}
+
+.noti{
+  padding:20px 20px;
+
+}
+
+.noti:hover{
+  color:#1da1f2;
+
+}
+
+.search-b{
+  color:#0084b4;
+  padding:5px 10px;
+  margin:0px 30px 0px 0px ;
+  border:darkgray solid 2px;
+  border-radius: 20px;
+}
+.fa-search{
+  margin:0px 0px 0px -60px;
+}
+
+.twe{
+   background-color: #4AB3F4;
+   border-radius: 100px;
+   margin: 5px 20px 5px 20px;
+  font-weight: bold;
+  padding: 10px 16px;
+  color:white;
+
+}
+
+
+.shi{
+  height: 40px;
+  width:40px;
+  border-radius:20px;
+}
+
+.cov-s{
+  height:150px;
+  width:300px;}
+
+  .pro-s{
+    height:60px;
+    width:60px;
+      border-radius:50%;
+    margin: -50px 0px 0px 10px ;
+    border:white 2px solid;
+  }
+
+  .side-pro{
+    height:270px;
+    margin:0px !important;
+  }
+
+.main-name{
+margin:-10px 0px 0px 70px;
+color:black;
+font-size: 22px;
+}
+
+.user-name{
+  color:gray;
+  margin:-5px 0px 0px 70px;
+  font-size: 15px;
+}
+  .user-name-right{
+    color:gray;
+    font-size: 13px;
+    margin:20px;
+  }
+  .people-know{
+    padding:10px 5px 5px 10px;
+    margin:0px;
+  }
+  .fa-users{
+    padding: 0px 1px 10px 10px;
+  }
+
+.te-pro{
+
+  padding:10px;
+  color:gray;
+}
+.disclm{
+  padding:5px;
+  font-size: 12px;
+}
+
+.te-count{
+  padding:35px ;
+  color:#4AB3F4;
+  padding:30px 40px 50px 30px;
+  margin-top: 40px;
+
+
+}
+.fa-external-link{
+  padding:5px 8px;
+}
+.blue{
+  color:#4AB3F4 !important;
+}
+
+.ref-r{
+  padding:5px;
+  font-size: 12px;
+}
+.blue1{
+color:#4AB3F4;
+padding:14px;
+}
+.gray{
+  color:gray;
+  padding:8px;
+}
+.right-names{
+  color:black;
+}
+.right-names:hover{
+  color:#4AB3F4;
+  text-decoration: underline;
+}
+
+.fa-stack{
+  color:#4AB3F4;
+  font-size:8px;
+  margin:1px 4px;;
+}
+.se-pro{
+
+  height:40px;
+  width:40px;
+  border-radius: 50%;
+}
+.panel{
+
+  border-radius: 0px !important;
+
+}
+.ser-pro{
+height: 50px;
+width:50px;
+border-radius: 50%;
+
+}
+
+.side-img{
+height: 50px;
+width: 50px;
+border-radius: 50%;
+
+}
+.img-pd{
+height: 400px;
+width: 450px;
+margin:0px !important;
+}
+
+.media-body{
+  margin:0px 0px 0px 0px;
+}
+
+.follow-button-side{
+color:#4AB3F4;
+border:solid #4AB3F4 1px;
+padding:5px 16px;
+border-radius:20px;
+}
+
+.line{
+	padding: 0px;
+	margin:5px 0px 0px 0px;
+}
